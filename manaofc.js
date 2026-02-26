@@ -25,7 +25,7 @@ const {
     jidNormalizedUser,
     downloadMediaMessage,
     getContentType
-} = require('baileys');
+} = require('@whiskeysockets/baileys');
 
 // MongoDB Configuration
 const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://kxshrii:i7sgjXF6SO2cTJwU@kelumxz.zggub8h.mongodb.net/';
